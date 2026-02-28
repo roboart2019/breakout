@@ -50,6 +50,7 @@ The template is ready. Next steps depend on user requirements:
 | Initial | Template created with base setup |
 | 2026-02-28 | Added Breakout game component with full gameplay |
 | 2026-02-28 | Fixed GitHub Pages base path configuration for proper asset loading |
+| 2026-02-28 | Added `.nojekyll` file to fix 404 errors on `_next/` folder |
 
 ## Quick Start Guide
 
