@@ -309,6 +309,9 @@ export default function BreakoutGame() {
         <p className="text-slate-400">
           Use mouse or arrow keys to move the paddle
         </p>
+        <p className="text-slate-500 text-sm mt-1">
+          (Dolph, this Game will work better with a mouse)
+        </p>
       </div>
 
       <div className="relative">
