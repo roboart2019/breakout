@@ -49,6 +49,7 @@ The template is ready. Next steps depend on user requirements:
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-02-28 | Added Breakout game component with full gameplay |
+| 2026-02-28 | Fixed GitHub Pages base path configuration for proper asset loading |
 
 ## Quick Start Guide
 
